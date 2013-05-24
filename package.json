@@ -1,0 +1,10 @@
+{
+  "name": "compilejs-proxy",
+  "version": "0.0.0",
+  "main": "proxy.js",
+  "author": "Jaime Pillora",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "~0.10.2"
+  }
+}
